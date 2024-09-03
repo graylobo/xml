@@ -1,0 +1,37 @@
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <data>
+      <goods_data>
+        <goodsNmFl>d</goodsNmFl>
+        <goodsNm>123</goodsNm>
+        <goodsDisplayFl>y</goodsDisplayFl>
+        <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+        <goodsSellFl>y</goodsSellFl>
+        <goodsSellMobileFl>y</goodsSellMobileFl>
+        <scmNo>1</scmNo>
+        <cateCd>123</cateCd>
+        <goodsState>n</goodsState>
+        <goodsPermission>all</goodsPermission>
+        <taxFreeFl>t</taxFreeFl>
+        <stockFl>y</stockFl>
+        <soldOutFl>n</soldOutFl>
+        <mileageFl>c</mileageFl>
+        <goodsDiscountFl>n</goodsDiscountFl>
+        <payLimitFl>n</payLimitFl>
+        <optionFl>n</optionFl>
+        <optionTextFl>n</optionTextFl>
+        <addGoodsFl>n</addGoodsFl>
+        <deliverySno>1</deliverySno>
+        <relationFl>n</relationFl>
+        <imgDetailViewFl>y</imgDetailViewFl>
+        <externalVideoFl>n</externalVideoFl>
+        <detailInfoDelivery>1</detailInfoDelivery>
+        <detailInfoAS>1</detailInfoAS>
+        <detailInfoRefund>1</detailInfoRefund>
+        <detailInfoExchange>1</detailInfoExchange>
+        <allCateCd>123</allCateCd>
+        <goodsPrice>23</goodsPrice>
+        <goodsDescription><![CDATA[123]]></goodsDescription>
+      </goods_data>
+    </data>
+  
