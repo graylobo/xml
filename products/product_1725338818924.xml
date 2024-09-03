@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+      <goods_data idx="1">
+        <cateCd>11</cateCd>
+        <allCateCd><![CDATA[1]]></allCateCd>
+        <goodsDisplayFl>y</goodsDisplayFl>
+        <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+        <goodsSellFl>y</goodsSellFl>
+        <goodsSellMobileFl>y</goodsSellMobileFl>
+        <goodsCd><![CDATA[undefined]]></goodsCd>
+        <goodsNmFl>d</goodsNmFl>
+        <goodsNm>11</goodsNm>
+        <goodsState>n</goodsState>
+        <imageStorage>local</imageStorage>
+        <restockFl>n</restockFl>
+        <goodsPermission>all</goodsPermission>
+        <goodsPermissionGroup><![CDATA[undefined]]></goodsPermissionGroup>
+        <taxFreeFl>t</taxFreeFl>
+        <taxPercent><![CDATA[undefined]]></taxPercent>
+        <stockFl>y</stockFl>
+        <soldOutFl>n</soldOutFl>
+        <mileageFl>c</mileageFl>
+        <goodsDiscountFl>n</goodsDiscountFl>
+        <goodsPrice><![CDATA[111]]></goodsPrice>
+        <optionFl>n</optionFl>
+        <optionDisplayFl>undefined</optionDisplayFl>
+        <optionName><![CDATA[undefined]]></optionName>
+        
+        <optionData idx="1">
+          <optionNo>1</optionNo>
+          <optionValue1><![CDATA[11]]></optionValue1>
+          <optionValue2><![CDATA[]]></optionValue2>
+          <optionValue3><![CDATA[]]></optionValue3>
+          <optionValue4><![CDATA[]]></optionValue4>
+          <optionValue5><![CDATA[]]></optionValue5>
+          <optionPrice><![CDATA[11]]></optionPrice>
+          <optionViewFl>y</optionViewFl>
+          <optionSellFl>y</optionSellFl>
+          <optionCode><![CDATA[]]></optionCode>
+          <stockCnt>11</stockCnt>
+        </optionData>
+        <optionTextFl>n</optionTextFl>
+        <addGoodsFl>n</addGoodsFl>
+        
+        <textOptionData idx="1">
+          <optionName><![CDATA[11]]></optionName>
+          <mustFl>y</mustFl>
+          <addPrice><![CDATA[undefined]]></addPrice>
+          <inputLimit>undefined</inputLimit>
+        </textOptionData>
+        <goodsDescription><![CDATA[111]]></goodsDescription>
+        <goodsDescriptionMobile><![CDATA[undefined]]></goodsDescriptionMobile>
+        <deliverySno>1</deliverySno>
+        <scmNo>1</scmNo>
+        
+        <goodsMustInfoData idx="1">
+          <stepData idx="1">
+            <infoTitle><![CDATA[11]]></infoTitle>
+            <infoValue><![CDATA[11]]></infoValue>
+          </stepData>
+        </goodsMustInfoData>
+      </goods_data>
+    </data>
